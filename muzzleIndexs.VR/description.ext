@@ -1,0 +1,10 @@
+respawn = 3;
+respawnDelay = 2;
+
+enableDebugConsole = 2;
+
+class CfgFunctions{
+	#include "LARs\muzzleIndexes.cpp"
+};
+
+__EXEC (myVar = "hello")
